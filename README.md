@@ -1,8 +1,7 @@
 # testrepo
 Repo to learn github
 im in dev branchfdsfsfdsfs
-treserefdsfdsfs
-fsdfsdftest it..dfs
+fdsffsdfsdftest it..dfs
 fdsfsdfsfdsfsfdfsfsfds
 fdsfsfdsfsfdsfdsf
 sfsfstestssfdsfsfsdfdsffsdfdssfsfsfs
